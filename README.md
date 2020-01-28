@@ -1,2 +1,2 @@
-# NaiveBayesClassifer
-Naive Bayes Classifer for Turkish Text
+# NaiveBayesClassifier
+Naive Bayes Classifier for Turkish Text
